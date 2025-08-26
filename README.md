@@ -93,8 +93,7 @@ npm run build && npm start
 ---
 
 ## 📸 Screenshots
-![Dashboard](public/images/hero-desktop.png)
-![Mobile](public/images/hero-mobile.png)
+![Dashboard](app/opengraph-image.png)
 
 ---
 
